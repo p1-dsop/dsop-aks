@@ -5,7 +5,7 @@ location = "usgovvirginia"
 
 # AKS cluster sizing
 vm_size = "Standard_D8_v3"
-kubernetes_version = "1.20.9"
+kubernetes_version = "1.22.6"
 
 # Networking
 subnet_cidr = "10.2.32.0/21"
